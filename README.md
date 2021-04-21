@@ -1,5 +1,5 @@
-# 🎮 lobby-service 
-game-engine for robhogo. Made with:
+# 🏨 lobby-service 
+lobby-service for robhogo. Made with:
 - .Net Core 3.1
 - MSSQL database
 
